@@ -2,7 +2,7 @@
 let n1 = 5;
 let n2 = 20;
 
-function soma(a , b){
+function soma(a, b){
   return a + b;
 }
 
@@ -14,7 +14,7 @@ function multiplicacao(a, b){
   return a *b;
 }
 
-function divisao(a , b){
+function divisao(a, b){
   return a/b;
 }
 
